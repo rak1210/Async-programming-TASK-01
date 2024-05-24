@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(106, 106, 106);
+    color: white;
+    height: 100vh;
+    margin: 0;
+}
+
+#countdown {
+    font-size: 150px;
+    text-align: center;
+}
